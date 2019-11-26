@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.test.LoginLogTest" duration-ms="11627" started-at="2019-11-07T10:50:49Z" finished-at="2019-11-07T10:51:00Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11627" started-at="2019-11-07T10:50:49Z" finished-at="2019-11-07T10:51:00Z">
+      <class name="com.test.LoginLogTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.LoginLogTest@4c70fda8]" name="setUp" is-config="true" duration-ms="10068" started-at="2019-11-07T16:20:49Z" finished-at="2019-11-07T16:20:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.test.LoginLogTest@4c70fda8]" name="titleTest" duration-ms="19" started-at="2019-11-07T16:20:59Z" finished-at="2019-11-07T16:20:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.LoginLogTest@4c70fda8]" name="tearDown" is-config="true" duration-ms="1528" started-at="2019-11-07T16:20:59Z" finished-at="2019-11-07T16:21:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.LoginLogTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.test.LoginLogTest -->
+</testng-results>
